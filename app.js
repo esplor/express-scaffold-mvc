@@ -1,5 +1,4 @@
 const express = require('express');
-const utils = require('./utils');
 
 /** Import routes */
 const rootRoutes = require('./routes/rootRouter');

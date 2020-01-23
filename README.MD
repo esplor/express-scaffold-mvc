@@ -13,8 +13,10 @@ Run express in production mode
 
 ## TODO:
 
-- Implement errorhandler
-- Connect to DB only if server starts
+- [ ] Implement errorhandler
+- [ ] Implement mongoose errorhandler
+- [x] Connect to DB only if server starts
+- [ ] Stop/restart server on DB (connect) failure
 
 ### Catch all route
 
