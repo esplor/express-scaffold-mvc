@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "NODE_ENV=production nodemon server",
+    "start": "NODE_ENV=production node server",
     "dev": "DEBUG='app:*' NODE_ENV=development nodemon server"
   },
   "keywords": [],
