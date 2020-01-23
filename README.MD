@@ -11,6 +11,11 @@ Run express in development mode:
 Run express in production mode
 `npm run start` or `npm start`
 
+## TODO:
+
+- Implement errorhandler
+- Connect to DB only if server starts
+
 ### Catch all route
 
 ```js
