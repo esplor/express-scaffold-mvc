@@ -3,6 +3,8 @@
 Clone repo and cd to directory, then run
 `npm i` to install all dependencies.
 
+Customize .env.sample and rename to .env
+
 ## Start server
 
 Run express in development mode:
